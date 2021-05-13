@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Luis "aka" @gato-arrabalero
+- 👋 Hi, I’m Luis "aka" @gatoArrabalero
 - 👀 I’m interested in ...learn apps mobile and internet of things
-- 🌱 I’m currently learning ...python (flask ,django) and Kotlin
+- 🌱 I’m currently learning ...python and javascript
 - 💞️ I’m looking to collaborate on ...nothing yet.....
 - 📫 How to reach me ...hgluisjavier@gmail.com
 
